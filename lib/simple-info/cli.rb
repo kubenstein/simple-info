@@ -6,12 +6,12 @@ module SimpleInfo
 
     desc 'show', 'Show info'
     def show
-      CliActions.new.show
+      Tag.new.show
     end
 
     desc 'edit', 'Edit or add info.'
     def edit
-      CliActions.new.edit
+      Tag.new.edit
     end
 
   end

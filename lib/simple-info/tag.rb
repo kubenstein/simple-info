@@ -1,5 +1,5 @@
 module SimpleInfo
-  class CliActions
+  class Tag
     TAG_NAME = 'simple_info_storage'
 
     def edit
