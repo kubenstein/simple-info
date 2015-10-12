@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'simple-info'
+
+SimpleInfo::Cli.start(ARGV)
