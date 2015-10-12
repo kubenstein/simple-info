@@ -15,7 +15,7 @@ I will push the gem to rubygems soon, but for now you can install it using [spec
 
 ```
 gem install specific_install
-gem specific_install -l https://github.com/kubenstein/simple-info.git 
+gem specific_install -l https://github.com/kubenstein/simple-info.git
 ```
 
 Usage
@@ -32,6 +32,18 @@ To see stored info:
 ```
   simple-info
   simple-info show
+```
+
+To push info to remote:
+
+```
+  simple-info push origin
+```
+
+To push info from remote:
+
+```
+  simple-info pull origin
 ```
 
 Internals
