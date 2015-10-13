@@ -11,11 +11,9 @@ Use Cases
 
 Instalation
 ---------
-I will push the gem to rubygems soon, but for now you can install it using [specific_install](https://github.com/rdp/specific_install):
 
 ```
-gem install specific_install
-gem specific_install -l https://github.com/kubenstein/simple-info.git
+gem install simple-info
 ```
 
 Usage
