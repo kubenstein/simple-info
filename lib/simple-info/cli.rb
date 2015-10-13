@@ -6,7 +6,7 @@ module SimpleInfo
 
     desc 'show', 'Show info'
     def show
-      Tag.new.show
+      puts Tag.new.show
     end
 
     desc 'edit', 'Edit or add info.'
