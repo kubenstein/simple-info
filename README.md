@@ -1,4 +1,4 @@
-SimpleInfo
+SimpleInfo [![Build Status](https://travis-ci.org/kubenstein/simple-info.png?branch=master)](https://travis-ci.org/kubenstein/simple-info)
 =============
 
 Store, add or edit all kind of info in your git repositiory without polluting git history.
